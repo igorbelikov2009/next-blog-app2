@@ -1,7 +1,7 @@
 // Серверный компонент
 
 import { PostSearch } from "@/components/PostSearch";
-import Posts from "@/components/Posts";
+import { Posts } from "@/components/Posts";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
