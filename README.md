@@ -26,3 +26,8 @@ pnpm dev
 
 6. `npm i zustand` стэйт менеджер - аналог редакса
 7. `npm i swr`
+8. Смотрим библиотеку `https://authjs.dev/`
+9. `npm i next-auth`
+10. `npm i next-auth@4.22.1` будем работать с этой версией
+11. В `package.js` меняем `"dev": "next dev --turbo"`, на `"dev": "next dev"`, убираем ` --turbo`.
+12. `https://cloud.google.com/`
